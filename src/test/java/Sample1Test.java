@@ -4,7 +4,7 @@ public class Sample1Test {
 
 	@Test
 	public void method1() {
-		System.out.println("Method1");
+		System.out.println("gm all");
 	}
 	
 	@Test
