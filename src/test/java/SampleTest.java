@@ -7,7 +7,7 @@ public void method1() {
 }
 @Test
 public void method2() {
-	System.out.println("method2");
+	System.out.println("method2 is running");
 }
 @Test
 public void method3() {
